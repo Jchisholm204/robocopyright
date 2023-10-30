@@ -1,0 +1,13 @@
+Added Component: Designator=Arduino Uno(Arduino Uno)
+Added Pin To Net: NetName=NetArduino Uno_5 Pin=Arduino Uno-5
+Added Pin To Net: NetName=VCC Pin=Arduino Uno-5V
+Added Pin To Net: NetName=NetArduino Uno_6 Pin=Arduino Uno-6
+Added Pin To Net: NetName=GND Pin=Arduino Uno-GND3
+Added Pin To Net: NetName=NetArduino Uno_SCL Pin=Arduino Uno-SCL
+Added Pin To Net: NetName=NetArduino Uno_SDA Pin=Arduino Uno-SDA
+Add Pin To Net: Unknown Pin: Pin GYRO-1
+Add Pin To Net: Unknown Pin: Pin GYRO-2
+Add Pin To Net: Unknown Pin: Pin GYRO-3
+Add Pin To Net: Unknown Pin: Pin GYRO-4
+Added Member To Class: ClassName=TOP Member=Component Arduino Uno
+Add Class Member: Failed to add class member : Component GYRO GY521

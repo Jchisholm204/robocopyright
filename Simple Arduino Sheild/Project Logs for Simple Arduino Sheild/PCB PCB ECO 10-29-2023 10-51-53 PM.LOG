@@ -1,0 +1,13 @@
+Add Component: Footprint Not Found ARDUINO UNO
+Add Pin To Net: Unknown Pin: Pin Arduino Uno-5
+Add Pin To Net: Unknown Pin: Pin Arduino Uno-5V
+Add Pin To Net: Unknown Pin: Pin Arduino Uno-6
+Add Pin To Net: Unknown Pin: Pin Arduino Uno-GND3
+Add Pin To Net: Unknown Pin: Pin Arduino Uno-SCL
+Add Pin To Net: Unknown Pin: Pin Arduino Uno-SDA
+Add Pin To Net: Unknown Pin: Pin GYRO-1
+Add Pin To Net: Unknown Pin: Pin GYRO-2
+Add Pin To Net: Unknown Pin: Pin GYRO-3
+Add Pin To Net: Unknown Pin: Pin GYRO-4
+Add Class Member: Failed to add class member : Component Arduino Uno
+Add Class Member: Failed to add class member : Component GYRO GY521

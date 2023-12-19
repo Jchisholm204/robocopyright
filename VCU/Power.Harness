@@ -1,0 +1,5 @@
+12V_LoadSwitches=3A_1,3A_2,3A_3,3A_4,1A_1,1A_2,1A_3,1A_4
+24V_LoadSwitches=3A_1,3A_2,3A_3,3A_4,3A_5,3A_6
+24V_LowSideControl=10A_1,10A_2,10A_3,10A_4,3A_1,3A_2
+5V_LoadSwitches=3A_1,3A_2,3A_3,3A_4,3A_5,3A_6
+Parallel8=0,1,2,3,4,5,6,7

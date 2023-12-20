@@ -392,23 +392,6 @@ GenerateClassCluster=0
 DocumentUniqueId=XZOSITQP
 
 [Document21]
-DocumentPath=24V_Load_Switch.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LVIEBOHJ
-
-[Document22]
 DocumentPath=INA219.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -425,7 +408,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VHZIQSZG
 
-[Document23]
+[Document22]
 DocumentPath=5V_Load_Switch.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -442,7 +425,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FMHXCTCP
 
-[Document24]
+[Document23]
 DocumentPath=5V_Load_Switches.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -459,7 +442,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QUJNVSUB
 
-[Document25]
+[Document24]
 DocumentPath=12V_Load_Switch.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -476,7 +459,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AYZFFMLP
 
-[Document26]
+[Document25]
 DocumentPath=12V_Load_Switches.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -492,6 +475,57 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NDKHCOIQ
+
+[Document26]
+DocumentPath=..\..\..\..\Downloads\AOZ1360AIL\AltiumDesigner\AOZ1360AIL.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document27]
+DocumentPath=..\..\..\..\Downloads\AOZ1360AIL\AltiumDesigner\AOZ1360AIL.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document28]
+DocumentPath=24V_Load_Switches.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for VCU\VCU.nsx

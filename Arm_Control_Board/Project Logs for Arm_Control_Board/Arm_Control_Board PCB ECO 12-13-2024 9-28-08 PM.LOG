@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=DCM1 Old Footprint=691137710002 New Footprint=691137710002
+Change Component Footprint: Designator=J4 Old Footprint=FP-2130830005-MFG New Footprint=FP-2130830005-MFG
+Change Component Footprint: Designator=U1 Old Footprint=Texas_Instruments_PW0014A_MFG New Footprint=Texas_Instruments_PW0014A_MFG
+Change Net Name : Old Net Name=NetJ17_1 New Net Name=T_LP1
+Change Net Name : Old Net Name=NetJ18_1 New Net Name=T_A1
+Change Net Name : Old Net Name=NetJ19_1 New Net Name=T_LP2
+Change Net Name : Old Net Name=NetJ20_1 New Net Name=T_A2

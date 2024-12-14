@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NRST Pin=P2-2
+Removed Pin From Net: NetName=GND Pin=P2-3
+Removed Pin From Net: NetName=3V3 Pin=R3-2
+Removed Member From Class: ClassName=STM32F446 Member=P2
+Removed Member From Class: ClassName=STM32F446 Member=R3

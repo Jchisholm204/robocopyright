@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SH2 Pin=DCM1-1
+Removed Pin From Net: NetName=SH1 Pin=DCM1-2
+Added Pin To Net: NetName=SH1 Pin=DCM1-1
+Added Pin To Net: NetName=SH2 Pin=DCM1-2

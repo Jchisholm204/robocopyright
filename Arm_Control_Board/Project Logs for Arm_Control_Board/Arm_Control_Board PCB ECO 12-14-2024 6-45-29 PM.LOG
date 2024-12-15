@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=TIM5_CH2 Pin=U10-3
+Removed Pin From Net: NetName=TIM5_CH1 Pin=U11-3
+Added Pin To Net: NetName=TIM5_CH1 Pin=U10-3
+Added Pin To Net: NetName=TIM5_CH2 Pin=U11-3

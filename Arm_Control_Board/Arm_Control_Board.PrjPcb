@@ -236,6 +236,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UDPWJNAP
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Arm_Control_Board\Design Rule Check - Arm_Control_Board.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Project
 Value=ARM Control Board

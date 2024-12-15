@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=LSW_3 Pin=U1-33
+Added Pin To Net: NetName=LSW_6 Pin=U1-34
+Change Net Name : Old Net Name=LSW_3 New Net Name=DO_PB12
+Change Net Name : Old Net Name=LSW_6 New Net Name=DO_PB13
